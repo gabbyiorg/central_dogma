@@ -1,2 +1,3 @@
-      ##This is a git tutorial
-     Gabriela Iorg
+# This is a git tutorial
+     
+Gabriela Iorg
